@@ -8,6 +8,8 @@
   
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
 
+</div>
+
 ### 👨‍💻 **About Me** 
 
 - 🏷️ You can call me **Ethan Bao** 
