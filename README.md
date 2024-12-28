@@ -56,9 +56,7 @@
 
 ### 🏅 **LeetCode Stats** 
 
-<div align="center">
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=EthanBao&CN)](https://github.com/KnlnKS/leetcode-stats)
-</div>
+[![EthanBao's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=EthanBao&CN)](https://github.com/KnlnKS/leetcode-stats)
 
 ---
 
