@@ -1,4 +1,4 @@
-## 👋 **Welcome to Ethan Bao's GitHub Profile**
+## 👋 **Welcome to Ethan Bao's GitHub Profile** [![Profile Views](https://komarev.com/ghpvc/?username=EthanBao27&color=blueviolet&style=flat-square)](https://github.com/EthanBao27)
 
 <div align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
@@ -50,6 +50,16 @@
 
 ### 🎯 **GitHub Activity**
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EthanBao27&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏅 **LeetCode Stats** 
+
+<div align="center">
+  <a href="https://github.com/KnlnKS/leetcode-stats">
+    <img src="https://leetcode-stats-six.vercel.app/?username=Abalone&theme=dark" alt="LeetCode Stats" />
+  </a>
+</div>
 
 ---
 
