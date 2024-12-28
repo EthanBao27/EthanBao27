@@ -7,7 +7,14 @@
 - 📫 A Blog documented in Chinese：abalone27.github.io      
 - 📮 contact me by e-mail: 522425561@qq.com
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EthanBao27&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EthanBao27&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EthanBao27&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---       
 Abalone27/Abalone27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
