@@ -42,10 +42,10 @@
 
 ### 📊 **GitHub Stats**
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; margin-right:10px;">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=EthanBao27&theme=tokyonight&show_icons=true&hide=prs,issues" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block;">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=EthanBao27&layout=compact&langs_count=6&theme=tokyonight" />
   </a>
 </div>
