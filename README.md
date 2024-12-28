@@ -56,8 +56,18 @@
 ### 🚀 **Let's Connect!**
 
 <div align="center">
-  <a href="mailto:522425561@qq.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://abalone27.github.io"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white" alt="Blog"></a>
+  <a href="mailto:522425561@qq.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://ethanbao27.github.io">
+    <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white" alt="Blog">
+  </a>
+  <a href="https://space.bilibili.com/31855043?spm_id_from=333.1007.0.0">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili">
+  </a>
+  <a href="https://github.com/EthanBao27">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 ---
