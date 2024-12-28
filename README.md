@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=31F7FF&width=435&lines=Hello+World!+I+am+Ethan+Bao;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=31F7FF&width=435&lines=HI+There!+I+am+Ethan+Bao;Let's+Enjoy+The+Process+Of+Coding!)](https://git.io/typing-svg)
   
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
 
