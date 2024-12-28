@@ -1,4 +1,5 @@
-## 👋 **Welcome to Ethan Bao's GitHub Profile** [![Profile Views](https://komarev.com/ghpvc/?username=EthanBao27&color=blueviolet&style=flat)](https://github.com/EthanBao27)
+## 👋 **Welcome to Ethan Bao's GitHub Profile** 
+[![Profile Views](https://komarev.com/ghpvc/?username=EthanBao27&color=blueviolet&style=flat)](https://github.com/EthanBao27)
 
 <div align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
@@ -57,7 +58,7 @@
 
 <div align="center">
   <a href="https://github.com/KnlnKS/leetcode-stats">
-    <img src="https://leetcode-stats-six.vercel.app/?username=EthanBao&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/?username=EthanBao&theme=dark&CN" alt="LeetCode Stats" />
   </a>
 </div>
 
