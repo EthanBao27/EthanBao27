@@ -16,7 +16,7 @@
 - 🧑‍🎓 Aspiring to pursue a **Master's degree** in **Hong Kong** ✈️  
 - 💟 Passionate about **Software Development** and constantly improving my **coding skills** 💪  
 - 🤝 Love making **global friends** and exchanging ideas 🌍  
-- 📝 Personal Blog (in Chinese): [ethanbao27.github.io](https://abalone27.github.io)  
+- 📝 Personal Blog (in Chinese): [baoyuxiang.fun](https://baoyuxiang.fun)  
 - 📫 Reach me via **E-mail**: [522425561@qq.com](mailto:522425561@qq.com)
 
 ---
