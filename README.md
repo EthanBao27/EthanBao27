@@ -5,7 +5,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=31F7FF&width=435&lines=Hi+There!+I+am+Ethan+Bao;Let's+Enjoy+The+Process+Of+Coding!)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBkenJtZDBpb3E5NzFodDNoN2piMnBpdDRzcWdkeXk0cXFtaTBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IOwzBZrp0VIpdXkYDc/giphy.gif" width="300" />
 
 </div>
 
@@ -13,9 +13,6 @@
 - 🏷️ You can call me **Ethan Bao**  
 - 🌏 I'm from **Shanghai, China**  
 - 📖 Currently studying **Computer Science** at **SHU** 🖥️  
-- 🧑‍🎓 Aspiring to pursue a **Master's degree** in **Hong Kong** ✈️  
-- 💟 Passionate about **Software Development** and constantly improving my **coding skills** 💪  
-- 🤝 Love making **global friends** and exchanging ideas 🌍  
 - 📝 Personal Blog (in Chinese): [baoyuxiang.fun](https://baoyuxiang.fun)  
 - 📫 Reach me via **E-mail**: [522425561@qq.com](mailto:522425561@qq.com)
 
@@ -36,24 +33,18 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
----
-
-### **Currently Learning**
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) 
 
 ---
 
 ### 📊 **GitHub Stats**
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; margin-right:10px;">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=EthanBao27&theme=tokyonight&show_icons=true&hide=prs,issues" />
+    <img height="100" src="https://github-readme-stats.vercel.app/api?username=EthanBao27&theme=tokyonight&show_icons=true&hide=prs,issues" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block;">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=EthanBao27&layout=compact&langs_count=6&theme=tokyonight" />
+    <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=EthanBao27&layout=compact&langs_count=6&theme=tokyonight" />
   </a>
 </div>
 
@@ -80,8 +71,3 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
-
----
-
-### ✨ **Fun Fact**
-> 🌟 *"Coding is like magic, and I'm a magician in the making."*
