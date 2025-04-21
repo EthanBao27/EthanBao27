@@ -1,11 +1,12 @@
-<div align="center">
-[![Profile Views](https://komarev.com/ghpvc/?username=EthanBao27&color=blueviolet&style=flat)](https://github.com/EthanBao27)
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=31F7FF&width=435&lines=Hi+There!+I+am+Ethan+Bao;Let's+Enjoy+The+Process+Of+Coding!)](https://git.io/typing-svg)
+<p align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=&width=435&lines=Hi+There!+I+am+Ethan+Bao;Let%27s+Enjoy+The+Process+Of+Coding!)](https://git.io/typing-svg)  
+
+[![Profile Views](https://komarev.com/ghpvc/?username=EthanBao27&color=7CAEA3&style=flat)](https://github.com/EthanBao27)  
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBkenJtZDBpb3E5NzFodDNoN2piMnBpdDRzcWdkeXk0cXFtaTBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IOwzBZrp0VIpdXkYDc/giphy.gif" width="300" />
 
-</div>
+</p>
 
 ### 👨‍💻 **About Me**
 - 🏷️ You can call me **Ethan Bao**  
