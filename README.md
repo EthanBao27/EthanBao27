@@ -1,7 +1,5 @@
-## 👋 **Welcome to Ethan Bao's GitHub Profile**
-[![Profile Views](https://komarev.com/ghpvc/?username=EthanBao27&color=blueviolet&style=flat)](https://github.com/EthanBao27)
-
 <div align="center">
+[![Profile Views](https://komarev.com/ghpvc/?username=EthanBao27&color=blueviolet&style=flat)](https://github.com/EthanBao27)
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=31F7FF&width=435&lines=Hi+There!+I+am+Ethan+Bao;Let's+Enjoy+The+Process+Of+Coding!)](https://git.io/typing-svg)
 
