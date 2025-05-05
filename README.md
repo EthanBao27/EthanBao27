@@ -47,7 +47,7 @@
 ---
 
 ### 🎯 **GitHub Activity**
-[![EthanBao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EthanBao27&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![EthanBao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EthanBao27&&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
