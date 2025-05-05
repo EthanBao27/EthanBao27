@@ -40,7 +40,7 @@
 ### 📊 **GitHub Stats**
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; margin-right:10px;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=EthanBao27&theme=onedark&show_icons=true&hide=prs,issues" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&hide=prs,issues&&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" />
   </a>
 </div>
 
