@@ -17,7 +17,7 @@ _<h3>About</h3>_
 
 🌏 I'm from _Shanghai, China_  
 
-📖 Currently studying _Computer Science_ at _SHU_ 🖥️  
+📖 Currently studying _Computer Science_ at _SHU_
 
 📝 [Personal Blog (in Chinese)](https://baoyuxiang.fun)  
 
