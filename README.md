@@ -13,15 +13,17 @@
 
 _<h3>About</h3>_
 
-🏷️ You can call me _Ethan Bao_
+You can call me _Ethan Bao_
 
-🌏 I'm from _Shanghai, China_  
+I'm from _Shanghai, China_  
 
-📖 Currently studying _Computer Science_ at _SHU_
+Currently studying _Computer Science_ at _SHU_
 
-📝 [Personal Blog (in Chinese)](https://baoyuxiang.fun)  
+Aspiring to become a Full Stack engineer!
 
-📫 [Reach me via E-mail](mailto:522425561@qq.com)
+[Personal Blog (in Chinese)](https://baoyuxiang.fun)  
+
+[Reach me via E-mail](mailto:522425561@qq.com)
 
 
 </div>
@@ -37,23 +39,14 @@ _<h3>🛠️ Tech Stack</h3>_
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
