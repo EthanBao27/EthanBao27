@@ -45,8 +45,35 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&theme=rose_pine&hide_border=true&title_color=F4A7B9&icon_color=F5C2E7&text_color=EAEAEA&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBao27&layout=compact&theme=rose_pine&hide_border=true&title_color=F4A7B9&text_color=EAEAEA&bg_color=00000000)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&theme=rose_pine&hide_border=true&title_color=F4A7B9&icon_color=F5C2E7&text_color=EAEAEA&bg_color=00000000" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&theme=catppuccin_latte&hide_border=true&title_color=883955&icon_color=ea76cb&text_color=4c4f69&bg_color=00000000" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&theme=rose_pine&hide_border=true" 
+    alt="Ethan's GitHub Stats" 
+  />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBao27&layout=compact&theme=rose_pine&hide_border=true&title_color=F4A7B9&text_color=EAEAEA&bg_color=00000000" 
+    media="(prefers-color-scheme: dark)"
+  />
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBao27&layout=compact&theme=catppuccin_latte&hide_border=true&title_color=883955&text_color=4c4f69&bg_color=00000000" 
+    media="(prefers-color-scheme: light)"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBao27&layout=compact&theme=rose_pine&hide_border=true" 
+    alt="Top Langs" 
+  />
+</picture>
 
 </div>
 
