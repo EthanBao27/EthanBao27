@@ -18,21 +18,17 @@
   <a href="mailto:522425561@qq.com">Email</a>
 </p>
 
-<div align="center" style="max-width:820px;margin:0 auto;">
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;">
-    <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="36"></a>
-    <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="36"></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="36"></a>
-    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://unpkg.com/simple-icons@latest/icons/rust.svg" alt="Rust" height="36"></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="36"></a>
-    <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="36"></a>
-    <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="36"></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="36"></a>
-    <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="Tailwind CSS" height="36">
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="36"></a>&nbsp;
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="36"></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="36"></a>&nbsp;
+  <a href="https://www.rust-lang.org/"><img src="https://unpkg.com/simple-icons@latest/icons/rust.svg" alt="Rust" width="36"></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36"></a>&nbsp;
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="36"></a>&nbsp;
+  <a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="36"></a>&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36"></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://unpkg.com/simple-icons@latest/icons/tailwindcss.svg" alt="Tailwind CSS" width="36"></a>
+</p>
 
 <div align="center">
 
