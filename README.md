@@ -1,116 +1,70 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Input+Mono&weight=750&pause=1000&color=8A95EDED&center=true&vCenter=true&random=true&width=435&lines=Hi+There!+I+am+Ethan+Bao;Let's+Enjoy+The+Process+Of+Coding!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1200&color=F4A7B9&center=true&vCenter=true&width=460&lines=Hi!+I'm+Ethan+Bao;Full+Stack+Learner;Code+with+Joy+❤)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=EthanBao27&color=7CAEA3&style=for-the-badge)](https://github.com/EthanBao27)  
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXBkenJtZDBpb3E5NzFodDNoN2piMnBpdDRzcWdkeXk0cXFtaTBzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IOwzBZrp0VIpdXkYDc/giphy.gif" width="260" />
+<!-- kawaii 动图：Giphy 可显示 -->
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMno5dW9pMmloNDR4YWs0MnZjaTZqZ3k1YTA1cXM0b2wwczFyb253OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKNmg0NmopMSTtsaWE/giphy.gif" width="360" alt="Kawaii coder" />
 
 </div>
 
+---
 
+### 💡 About
+🎓 CS @ SHU 💻 Passionate about Web, Backend & Systems  
+🌱 Exploring **Go · Java · TypeScript · Rust · Docker**  
+📝 Blog → [yux-bao.site](https://yux-bao.site/) 📫 [522425561@qq.com](mailto:522425561@qq.com)
+
+---
+
+### ⚙️ Tech Stack
 <div align="center">
 
-_<h3>About</h3>_
+<a href="https://go.dev/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="38" /></a>
+<a href="https://www.java.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="38" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="38" /></a>
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="38" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="38" /></a>
+<a href="https://react.dev/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="38" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="38" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="38" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="38" /></a>
 
-You can call me _Ethan Bao_
+</div>
 
-I'm from _Shanghai, China_  
+---
 
-Currently studying _Computer Science_ at _SHU_
+### 🏆 GitHub Trophies
+<div align="center">
 
-Aspiring to become a Full Stack engineer!
+![trophy](https://github-profile-trophy.vercel.app/?username=EthanBao27&theme=tokyonight&no-frame=true&margin-w=10&column=6)
 
-[Personal Blog (in Chinese)](https://baoyuxiang.fun)  
+</div>
 
-[Reach me via E-mail](mailto:522425561@qq.com)
+---
 
+### 📊 GitHub Stats
+<div align="center">
+
+![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&theme=rose_pine&hide_border=true&title_color=F4A7B9&icon_color=F5C2E7&text_color=EAEAEA&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBao27&layout=compact&theme=rose_pine&hide_border=true&title_color=F4A7B9&text_color=EAEAEA&bg_color=00000000)
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EthanBao27/EthanBao27/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EthanBao27/EthanBao27/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/EthanBao27/EthanBao27/blob/output/github-snake.svg" />
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-  
-_<h3>🛠️ Tech Stack</h3>_
-
- <div style="display: inline-flex; flex-wrap: wrap; align-items: center; gap: 6px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="vertical-align: middle;" />
-</div>
-
-</div>
-
----
-
-<div align="center">
-  
-_<h3>GitHub Stats</h3>_
-
-</div>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="display:inline-block; margin-right:10px;">
-    <img height="270" src="https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&hide=prs,issues&&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" />
-  </a>
-</div>
-
----
-
-<div align="center">
-
-_<h3>GitHub Activity</h3>_
-
-</div>
-
-[![EthanBao's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EthanBao27&&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-<div align="center">
-  
-_<h3>🚀 Let's Connect!</h3>_
-
-</div>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 8px;">
-  <a href="mailto:522425561@qq.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-      style="vertical-align: middle;"
-    />
-  </a>
-  <a href="https://baoyuxiang.fun">
-    <img
-      src="https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Blog"
-      style="vertical-align: middle;"
-    />
-  </a>
-  <a href="https://space.bilibili.com/31855043">
-    <img
-      src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"
-      alt="Bilibili"
-      style="vertical-align: middle;"
-    />
-  </a>
-  <a href="https://github.com/EthanBao27">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-      style="vertical-align: middle;"
-    />
-  </a>
+  <sub>🌸 “Stay curious, code with joy.” 🌸</sub>
 </div>
