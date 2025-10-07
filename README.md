@@ -6,33 +6,38 @@
 
 </div>
 
+<div align="center">
+  <sub>🌸 “Stay curious, code with joy.” 🌸</sub>
+</div>
+
+<div></div>
+
 <p align="center">
   🎓 CS @ SHU · 💻 Web / Backend / Systems · 🌱
   <a href="https://yux-bao.site/">Blog</a> · 
   <a href="mailto:522425561@qq.com">Email</a>
 </p>
 
-<div align="center">
-
-<a href="https://go.dev/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="38" /></a>
-<a href="https://www.java.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="38" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="38" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="38" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="38" /></a>
-<a href="https://react.dev/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="38" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="38" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="38" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img style="margin:10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="38" /></a>
-
+<div align="center" style="max-width:820px;margin:0 auto;">
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:14px;">
+    <a href="https://go.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="36"></a>
+    <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="36"></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="36"></a>
+    <a href="https://www.rust-lang.org/" target="_blank"><img src="https://unpkg.com/simple-icons@latest/icons/rust.svg" alt="Rust" height="36"></a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="36"></a>
+    <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="36"></a>
+    <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" height="36"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="36"></a>
+    <a href="https://tailwindcss.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" alt="Tailwind CSS" height="36">
+    </a>
+  </div>
 </div>
 
 <div align="center">
 
 <div align="center">
 
-<div align="center">
-  <sub>🌸 “Stay curious, code with joy.” 🌸</sub>
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EthanBao27/EthanBao27/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EthanBao27/EthanBao27/output/github-snake.svg" />
