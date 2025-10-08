@@ -23,11 +23,45 @@
 
 <br>
 
-<!-- ====== Short About Line ====== -->
+<!-- ====== About Me Badges (Dark + Light Mode) ====== -->
 <p align="center">
-  🎓 CS @ SHU · 💻 Web / Backend / Systems ·
-  <a href="https://yux-bao.site/"> 🌸 Blog</a> · 
-  <a href="mailto:i@yux-bao.site"> 🍀 Email</a>
+
+  <!-- 🌸 Blog -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.site-ffbde6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=363a4f&color=f5c2e7" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.site-fff0f6?style=for-the-badge&logo=vercel&logoColor=black&labelColor=f2f2f2&color=ffbde6" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-%F0%9F%8C%B8%20yux--bao.site-ffbde6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=363a4f&color=f5c2e7" style="margin:6px;" />
+  </picture>
+
+  <!-- 🍀 Email -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://img.shields.io/badge/Email-%F0%9F%8C%80%20i@yux--bao.site-8bd5ca?style=for-the-badge&logo=gmail&logoColor=white&labelColor=363a4f&color=8bd5ca" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://img.shields.io/badge/Email-%F0%9F%8C%80%20i@yux--bao.site-eafaf7?style=for-the-badge&logo=gmail&logoColor=black&labelColor=f2f2f2&color=a6e3d4" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-%F0%9F%8C%80%20i@yux--bao.site-8bd5ca?style=for-the-badge&logo=gmail&logoColor=white&labelColor=363a4f&color=8bd5ca" style="margin:6px;" />
+  </picture>
+
+  <!-- 🎓 CS @ SHU -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://img.shields.io/badge/CS%20@%20SHU-%F0%9F%8E%93-89b4fa?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=363a4f&color=89b4fa" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://img.shields.io/badge/CS%20@%20SHU-%F0%9F%8E%93-e6f0ff?style=for-the-badge&logo=bookstack&logoColor=black&labelColor=f2f2f2&color=aed0ff" />
+    <img alt="CS @ SHU" src="https://img.shields.io/badge/CS%20@%20SHU-%F0%9F%8E%93-89b4fa?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=363a4f&color=89b4fa" style="margin:6px;" />
+  </picture>
+
+  <!-- 💻 Backend-leaning Full-Stack -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://img.shields.io/badge/Backend--leaning%20Full--Stack-%F0%9F%92%BB-f4a7b9?style=for-the-badge&logo=codepen&logoColor=white&labelColor=363a4f&color=f4a7b9" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://img.shields.io/badge/Backend--leaning%20Full--Stack-%F0%9F%92%BB-ffe4eb?style=for-the-badge&logo=codepen&logoColor=black&labelColor=f2f2f2&color=fabbd3" />
+    <img alt="Full-Stack Dev" src="https://img.shields.io/badge/Backend--leaning%20Full--Stack-%F0%9F%92%BB-f4a7b9?style=for-the-badge&logo=codepen&logoColor=white&labelColor=363a4f&color=f4a7b9" style="margin:6px;" />
+  </picture>
+
 </p>
 
 <!-- ====== Contribution Snake ====== -->
