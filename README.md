@@ -76,16 +76,24 @@
 
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6" width="95%">
-    <img src="https://skillicons.dev/icons?i=go"       alt="Go" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=java"     alt="Java" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=ts"       alt="TypeScript" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=rust"     alt="Rust" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=docker"   alt="Docker" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react"    alt="React" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=vue"      alt="Vue" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=mysql"    alt="MySQL" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="32">&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=spring"   alt="Spring Boot" width="32">
+    <img src="https://skillicons.dev/icons?i=go"            alt="Go" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=java"          alt="Java" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=ts"            alt="TypeScript" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=rust"          alt="Rust" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=docker"        alt="Docker" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=react"         alt="React" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=vue"           alt="Vue" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=mysql"         alt="MySQL" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=redis"         alt="Redis" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=rabbitmq"      alt="RabbitMQ" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=tailwind"      alt="Tailwind CSS" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=spring"        alt="Spring Boot" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="32">&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="32">&nbsp;&nbsp;
   </marquee>
 </p>
 
