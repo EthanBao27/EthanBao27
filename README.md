@@ -27,7 +27,7 @@
 <p align="center">
   🎓 CS @ SHU · 💻 Web / Backend / Systems ·
   <a href="https://yux-bao.site/"> 🌸 Blog</a> · 
-  <a href="mailto:522425561@qq.com"> 🍀 Email</a>
+  <a href="mailto:i@yux-bao.site"> 🍀 Email</a>
 </p>
 
 <!-- ====== Contribution Snake ====== -->
