@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ====== Hero Title ====== -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1600&color=F4A7B9&center=true&vCenter=true&width=460&lines=Hi!+I'm+Ethan+Bao;Full+Stack+Learner;Code+with+Joy+❤)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1600&color=F4A7B9&center=true&vCenter=true&width=460&lines=Hi!+I'm+Yux+Bao;Full+Stack+Learner;Code+with+Joy+❤)](https://git.io/typing-svg)
 
 <!-- ====== Hero Card (GIF + Counter) ====== -->
 <div align="center">
@@ -12,7 +12,7 @@
       </td>
       <td valign="middle" width="280">
         <div align="center">
-          <img src="https://api.moedog.org/count/@EthanBao27?name=EthanBao27&theme=asoul&padding=1&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count"/>
+          <img src="https://api.moedog.org/count/@YuxBao?name=YuxBao&theme=asoul&padding=1&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count"/>
           <br>
           <sub>✨ Thanks for visiting! ✨</sub>
         </div>
@@ -33,9 +33,9 @@
 <!-- ====== Contribution Snake ====== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EthanBao27/EthanBao27/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EthanBao27/EthanBao27/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/EthanBao27/EthanBao27/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuxBao/YuxBao/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuxBao/YuxBao/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/YuxBao/YuxBao/output/github-snake.svg" />
   </picture>
 </div>
 
@@ -60,15 +60,15 @@
 
 <div align="center">
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&theme=rose_pine&hide_border=true&title_color=F4A7B9&icon_color=F5C2E7&text_color=EAEAEA&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&theme=catppuccin_latte&hide_border=true&title_color=883955&icon_color=ea76cb&text_color=4c4f69&bg_color=00000000" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EthanBao27&show_icons=true&theme=rose_pine&hide_border=true" alt="Ethan's GitHub Stats" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=YuxBao&show_icons=true&theme=rose_pine&hide_border=true&title_color=F4A7B9&icon_color=F5C2E7&text_color=EAEAEA&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=YuxBao&show_icons=true&theme=catppuccin_latte&hide_border=true&title_color=883955&icon_color=ea76cb&text_color=4c4f69&bg_color=00000000" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuxBao&show_icons=true&theme=rose_pine&hide_border=true" alt="Ethan's GitHub Stats" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBao27&layout=compact&theme=rose_pine&hide_border=true&title_color=F4A7B9&text_color=EAEAEA&bg_color=00000000" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBao27&layout=compact&theme=catppuccin_latte&hide_border=true&title_color=883955&text_color=4c4f69&bg_color=00000000" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanBao27&layout=compact&theme=rose_pine&hide_border=true" alt="Top Langs" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YuxBao&layout=compact&theme=rose_pine&hide_border=true&title_color=F4A7B9&text_color=EAEAEA&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YuxBao&layout=compact&theme=catppuccin_latte&hide_border=true&title_color=883955&text_color=4c4f69&bg_color=00000000" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuxBao&layout=compact&theme=rose_pine&hide_border=true" alt="Top Langs" />
 </picture>
 </div>
 
@@ -76,9 +76,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=EthanBao27&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=EthanBao27&theme=flat&no-frame=true&margin-w=10&column=6" />
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=EthanBao27&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=YuxBao&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=YuxBao&theme=flat&no-frame=true&margin-w=10&column=6" />
+  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=YuxBao&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
 </picture>
 </div>
 
