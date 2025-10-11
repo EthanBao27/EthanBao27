@@ -20,7 +20,7 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: EthanBao27
+          github_user_name: YuxBao
           outputs: |
             dist/github-snake.svg?color_snake=#f4b8e4&color_dots=#303446,#414559,#51576d,#626880,#838ba7
             dist/github-snake-dark.svg?color_snake=#ffb6dc&color_dots=#2f3241,#3d4054,#505268,#65657c,#7c7e97
